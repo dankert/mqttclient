@@ -1,0 +1,4 @@
+project:
+  name: mqttclient
+  title: MQTT Client
+  description: Client for accessing a MQTT broker
